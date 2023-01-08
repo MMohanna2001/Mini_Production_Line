@@ -6,7 +6,7 @@ Authors:
 Description:
 
 A mini-production line incoprating a 3 DOF Cartesian Robot that is used to differentiate between two 
-products based on their materials using two micrucontrollers (Arduino Mega & Arduino Uno).
+products based on their material using two microcontrollers (Arduino Mega & Arduino Uno).
 
 Arduino Mega is used for controlling the subsystems (Feeding,Sorting & storage) using a Real Time Operating System 
 while communicatting with the an Arduino Uno via Ethernet Communication
