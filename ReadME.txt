@@ -12,3 +12,6 @@ Arduino Mega is used for controlling the subsystems (Feeding,Sorting & storage) 
 while communicatting with the an Arduino Uno via Ethernet Communication
 
 Arduino Uno is used to print the states of the system along with the product counts on two LCDs
+
+Link:
+https://www.youtube.com/watch?v=4RVsnaX1_RQ
